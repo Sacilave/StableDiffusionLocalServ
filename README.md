@@ -128,6 +128,8 @@
 
 左上角 Stable Diffusion checkpoint 下方的下拉框更改模型 ，更多具体 SD 使用教程可以上网搜咯
 
+![cover](/cover.png)
+
 ## 4. 将服务器开放到局域网
 
 **1. 设置启动参数**
